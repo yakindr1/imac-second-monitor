@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/README.md
+!/docs/
+/docs/*
+!/docs/guide.ru.md
+!/docs/imac-second-monitor-guide.pdf
