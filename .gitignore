@@ -1,7 +1,13 @@
 *
 !/.gitignore
+!/.gitattributes
 !/README.md
 !/docs/
 /docs/*
 !/docs/guide.ru.md
 !/docs/imac-second-monitor-guide.pdf
+!/docs/guide-preview.png
+!/scripts/
+/scripts/*
+!/scripts/iMac-Camera.command
+!/scripts/camera-low-latency.lua
