@@ -2,11 +2,16 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
+!/AGENTS.md
 !/docs/
 /docs/*
 !/docs/guide.ru.md
 !/docs/imac-second-monitor-guide.pdf
 !/docs/guide-preview.png
+!/docs/imac-ai-quickstart.ru.pdf
+!/docs/imac-ai-quickstart-preview.jpg
+!/docs/agent-setup.ru.md
+!/docs/prompt.ru.txt
 !/scripts/
 /scripts/*
 !/scripts/iMac-Camera.command
